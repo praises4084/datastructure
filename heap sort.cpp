@@ -13,7 +13,7 @@
   do
   {
   heap_root  = (c - 1) / 2;
-  /* to create MAX arr  array */
+ 
   if  (arr[heap_root] < arr[c])
   {
   temp =  arr[heap_root];
